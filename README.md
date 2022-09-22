@@ -46,7 +46,9 @@
 
 # [대표 이미지]
 
-![그림](./img/그림.png)
+<img src="https://user-images.githubusercontent.com/114119568/191642704-fa1c2f83-d826-4875-a71d-ad64f31490f3.jpg"  width="300" height="200"/>
+<img src="https://user-images.githubusercontent.com/114119568/191642755-fae9189b-b49e-41d6-a3c4-6a4f0844cdb8.jpg"  width="300" height="200"/>
+
 
 <br><br>
 
