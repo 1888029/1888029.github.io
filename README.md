@@ -31,7 +31,7 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
- ![던그리드](https://user-images.githubusercontent.com/114119568/191636784-7eda47b5-42ba-484d-b3c3-aeebfcebdf34.jpg)
+ ![던그리드](https://user-images.githubusercontent.com/114119568/191636784-7eda47b5-42ba-484d-b3c3-aeebfcebdf34.jpg){: width="100" height="100"}
 
 - 동영상
   [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
