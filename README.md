@@ -33,7 +33,7 @@
 - 이미지  
 <img src="https://user-images.githubusercontent.com/114119568/191636784-7eda47b5-42ba-484d-b3c3-aeebfcebdf34.jpg"  width="300" height="200"/>
 - 동영상
-<img src="https://user-images.githubusercontent.com/114119568/191636784-7eda47b5-42ba-484d-b3c3-aeebfcebdf34.jpg"  width="300" height="200"/>(https://youtu.be/90P0zAMKJmE)
+  [<img src="https://user-images.githubusercontent.com/114119568/191636784-7eda47b5-42ba-484d-b3c3-aeebfcebdf34.jpg"  width="300" height="200"/>](https://youtu.be/90P0zAMKJmE)
 
 <br><br>
 
