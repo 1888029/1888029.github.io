@@ -36,6 +36,8 @@
 - 동영상
    [![maxresdefault](https://user-images.githubusercontent.com/114119568/191641558-e20ee729-6fdc-4c01-979f-e731f593b2d7.jpg)](https://youtu.be/90P0zAMKJmE)
 
+[![](https://user-images.githubusercontent.com/114119568/191641558-e20ee729-6fdc-4c01-979f-e731f593b2d7.jpg)](https://youtu.be/90P0zAMKJmE)
+
 <br><br>
 
 
