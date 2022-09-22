@@ -29,14 +29,13 @@
 <br><br>
 
 # [관련 이미지 & 동영상]
-![maxresdefault](https://user-images.githubusercontent.com/114119568/191641558-e20ee729-6fdc-4c01-979f-e731f593b2d7.jpg)
 
 - 이미지  
 <img src="https://user-images.githubusercontent.com/114119568/191636784-7eda47b5-42ba-484d-b3c3-aeebfcebdf34.jpg"  width="300" height="200"/>
-- 동영상
-   [![maxresdefault](https://user-images.githubusercontent.com/114119568/191641558-e20ee729-6fdc-4c01-979f-e731f593b2d7.jpg)](https://youtu.be/90P0zAMKJmE)
 
-[![](https://user-images.githubusercontent.com/114119568/191641558-e20ee729-6fdc-4c01-979f-e731f593b2d7.jpg)](https://youtu.be/90P0zAMKJmE)
+
+- 동영상
+[<img src="https://user-images.githubusercontent.com/114119568/191636784-7eda47b5-42ba-484d-b3c3-aeebfcebdf34.jpg"  width="300" height="200"/>](https://youtu.be/90P0zAMKJmE)
 
 <br><br>
 
