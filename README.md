@@ -34,9 +34,12 @@
  ![던그리드](https://user-images.githubusercontent.com/114119568/191636784-7eda47b5-42ba-484d-b3c3-aeebfcebdf34.jpg)
 
 - 동영상
-  [![](https://user-images.githubusercontent.com/114119568/191636784-7eda47b5-42ba-484d-b3c3-aeebfcebdf34.jpg)](https://youtu.be/90P0zAMKJmE)
+  [![](https://user-images.githubusercontent.com/114119568/191639077-ea93a37b-61ec-493b-93f4-e96d9691dec0.jpg)](https://youtu.be/90P0zAMKJmE)
 
 <br><br>
+
+
+
 
 # [대표 이미지]
 
