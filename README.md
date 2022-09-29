@@ -48,7 +48,8 @@
 - 동영상
 
 
-[<img src="https://user-images.githubusercontent.com/114119568/191642147-cd732a4d-32ec-4df8-892a-9d08943b0b47.jpg"  width="350" height="200"/>](https://youtu.be/EeXWxCZWqfc)
+[<img src="https://user-images.githubusercontent.com/114119568/192922247-6dd23512-a746-47ee-bb33-549f19a2b2db.jpg"  width="350" height="200"/>](https://youtu.be/EeXWxCZWqfc)
+
 
 
 
