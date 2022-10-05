@@ -35,6 +35,7 @@
 <br>
 
 던그리드
+이 게임이 제가 만들게임중 가장 유사하다고 해서 넣게 되었습니다. 
 <br>
 <img src="https://user-images.githubusercontent.com/114119568/191636784-7eda47b5-42ba-484d-b3c3-aeebfcebdf34.jpg"  width="300" height="200"/>
 <br>
@@ -51,6 +52,8 @@
 <br>
  
 스컬 더 히어로 슬레이어
+캐릭터들 보유의 스킬이 있어서 캐릭터의 고유스킬을 넣어보자는 생각이들어서 넣게 되었습니다.
+<br>
  
 <img src="https://user-images.githubusercontent.com/114119568/192921597-602e2914-a8a9-4ed3-b883-103432b9667c.jpg"  width="300" height="200"/>
 
