@@ -254,9 +254,9 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 
 |연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|
-|1|천원지폐(100원)|Coin||
-|2|오천원지폐(500원) |silverCoin||
-|3|만원지폐(1000원) |goldCoin||
+|1|동전(100원)|Coin|<img src="https://user-images.githubusercontent.com/114119568/195619774-4641a4fa-72a4-4e3c-9ae2-b215e97266be.png"  width="200" height="200"/>|
+|2|돈다발(500원) |silverCoin|<img src="https://user-images.githubusercontent.com/114119568/195619964-674119b2-f671-492c-8592-28b4d67ab72a.png"  width="200" height="200"/>|
+|3|돈뭉치(1000원) |goldCoin|<img src="https://user-images.githubusercontent.com/114119568/195620067-32741778-5cac-4c64-9e8b-cdcfdc005ee8.png"  width="200" height="200"/>|
 |4|아이템상자|itemBox|<img src="https://user-images.githubusercontent.com/114119568/195478624-bca07ebc-b643-4bd5-88f5-e6f8cdc9bb55.png"  width="200" height="100"/>|
 |5|동전상자|CoinBox|<img src="https://user-images.githubusercontent.com/114119568/195478956-08b5f116-8aad-4d0b-a875-5e037aa1332a.png"  width="200" height="120"/>|
 
