@@ -213,6 +213,8 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 
 1.플레이어         player       공통         체력 80    
 
+<img src="https://user-images.githubusercontent.com/114119568/195470895-feda565f-0fce-43a7-9879-354ca9a0dbe8.png"  width="200" height="200"/>
+
 <br>
 
 ## 2. 몬스터
@@ -221,9 +223,16 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 
 2.침팬치(원거리형) chimpanzeeB  공통          체력 45
 
+<img src="https://user-images.githubusercontent.com/114119568/195470850-a3de8ff3-92ab-4911-b331-9fae3e481b24.png"  width="200" height="200"/>
+
 3.일반박쥐         bat          공통         체력 32
 
+<img src="https://user-images.githubusercontent.com/114119568/195470713-40a43dd1-ac6b-4fe8-aeb6-93e63fcd55ee.png"  width="200" height="200"/>
+
 4.아기박쥐         babybat      공통         체력 16
+
+<img src="https://user-images.githubusercontent.com/114119568/195470771-646b4f09-af18-4738-a3bc-175369609513.png"  width="200" height="200"/>
+
 
 <br>
 
@@ -271,32 +280,51 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 
 1.일반검(일반)      knife           기본보유                    8~10데미지    초당속도3
 
-2.빠루             crowbar         상자드랍 또는 상점구매        
+2.빠루             crowbar         상자드랍 또는 상점구매      
+
+<img src="https://user-images.githubusercontent.com/114119568/195470377-049ef523-4b9a-492a-9a5d-27a0e8232ce3.png"  width="200" height="200"/>
+
  
 3.채찍             whip            상자드랍 또는 상점구매
 
 4.카타나           katana          상자드랍 또는 상점구매
+
+<img src="https://user-images.githubusercontent.com/114119568/195470254-223218a5-0ee3-4f4d-a04b-19718ceea1d5.png"  width="200" height="200"/>
 
 5.글라디우스       gladius         상자드랍 또는 상점구매
 
 
 <br>
 
-## 6. 근접무기    
+## 6. 원거리무기    
 
 1.권총(일반)        Gun            상자드랍 또는 상점구매        5데미지      탄창10발
 
+
+
 2.리볼버           revolver        상자드랍 또는 상점구매        10~15데미지  탄창6발
 
-3.샷건             shotgun         상자드랍 또는 상점구매       
+
+
+3.샷건             shotgun         상자드랍 또는 상점구매    
+
+
 
 4.돌격소총         assaultRifle    상자드랍 또는 상점구매
 
+
+
 5.기관단총         submachineGun   상자드랍 또는 상점구매
+
+
 
 6.저격총(전설)     sniperRifle     상자드랍 또는 상점구매        36~50데미지  탄창5발
 
+<img src="https://user-images.githubusercontent.com/114119568/195470134-902bb245-0c00-46ed-ad4c-152a92df4960.png"  width="200" height="200"/>
+
 7.수류탄           grenade         상자드랍 또는 상점구매
+
+<img src="https://user-images.githubusercontent.com/114119568/195470008-1e9b4b42-c658-4070-9c28-db1fa38fdb7d.png"  width="200" height="200"/>
 
 
 
@@ -305,7 +333,10 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 
 ## 7. 함정    
 
-1.가시        ThornTrap               
+1.가시        ThornTrap      
+
+<img src="https://user-images.githubusercontent.com/114119568/195470503-68eccd9b-a5eb-45e8-b10e-3f541984accf.png"  width="200" height="200"/>
+
 
 
 <br>
@@ -325,3 +356,14 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 6.인벤토리         Inventory
 
 7.조준점          aiming point
+
+
+
+<br>
+
+## 8. 보스     
+
+1.진짜왁굳   RealWakgood
+
+<img src="https://user-images.githubusercontent.com/114119568/195469728-ab9fafa6-172e-4e19-bd46-6bf1edc0b39d.png"  width="200" height="200"/>
+
