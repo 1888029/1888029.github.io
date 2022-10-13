@@ -2,6 +2,19 @@
 
 1888029 이현준
 
+# [ 목차 ]
+### [1.컨셉](#컨셉)
+### [2.관련 이미지와 동영상](#관련-이미지-동영상)
+### [3.대표 이미지 그리고 컨셉과 대표이미지 기반 작품 묘사](#대표-이미지)
+### [4.TUNDRA의 구성 요소](#구성-요소)
+### [5.게임 시스템 디자인](#게임-시스템-디자인)
+### [6.요구사항(6주차)](#6)
+### [7.요구사항(1년차)](#66)
+### [8.키보드 이벤트에 대한 흐름도](#7)
+### [9.용어 정리](#8)
+
+
+
 # [컨셉]
 
 ## 메인컨셉 : 피지컬
@@ -30,7 +43,7 @@
 
 <br><br>
 
-# [관련 이미지 & 동영상]
+# [관련 이미지 동영상]
 
 - 이미지
 
@@ -204,7 +217,7 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 <br><br>
 
 
-# 리스트
+# [게임 시스템 디자인]
 
 
 <br>
@@ -219,24 +232,31 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 
 ## 2. 몬스터
 
-1.침팬지          chimpanzeeA  공통          체력 50
+|연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|침팬지|chimpanzeeA||
+|2|침팬지(원거리형)|chimpanzeeB|<img src="https://user-images.githubusercontent.com/114119568/195470850-a3de8ff3-92ab-4911-b331-9fae3e481b24.png"  width="200" height="200"/>|
+|3|일반박쥐|bat|<img src="https://user-images.githubusercontent.com/114119568/195470713-40a43dd1-ac6b-4fe8-aeb6-93e63fcd55ee.png"  width="200" height="200"/>|
+|4|일반박쥐|babybat|<img src="https://user-images.githubusercontent.com/114119568/195470771-646b4f09-af18-4738-a3bc-175369609513.png"  width="200" height="200"/>|
 
-2.침팬치(원거리형) chimpanzeeB  공통          체력 45
 
-<img src="https://user-images.githubusercontent.com/114119568/195470850-a3de8ff3-92ab-4911-b331-9fae3e481b24.png"  width="200" height="200"/>
 
-3.일반박쥐         bat          공통         체력 32
-
-<img src="https://user-images.githubusercontent.com/114119568/195470713-40a43dd1-ac6b-4fe8-aeb6-93e63fcd55ee.png"  width="200" height="200"/>
-
-4.아기박쥐         babybat      공통         체력 16
-
-<img src="https://user-images.githubusercontent.com/114119568/195470771-646b4f09-af18-4738-a3bc-175369609513.png"  width="200" height="200"/>
 
 
 <br>
 
 ## 3. 아이템
+
+|연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|천원지폐(100원)|Coin||
+|2|오천원지폐(500원) |silverCoin|<img src="https://user-images.githubusercontent.com/114119568/195470850-a3de8ff3-92ab-4911-b331-9fae3e481b24.png"  width="200" height="200"/>|
+|3|만원지폐(1000원) |goldCoin|<img src="https://user-images.githubusercontent.com/114119568/195470713-40a43dd1-ac6b-4fe8-aeb6-93e63fcd55ee.png"  width="200" height="200"/>|
+|4|아이템상자|itemBox|<img src="https://user-images.githubusercontent.com/114119568/195478624-bca07ebc-b643-4bd5-88f5-e6f8cdc9bb55.png"  width="200" height="100"/>|
+|5|동전상자|CoinBox|<img src="https://user-images.githubusercontent.com/114119568/195478956-08b5f116-8aad-4d0b-a875-5e037aa1332a.png"  width="200" height="120"/>|
+
+
+
 
 1.천원지폐(100원)      Coin          몬스터 죽이거나 동전상자드랍
 
