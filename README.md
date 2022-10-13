@@ -6,12 +6,9 @@
 ### [1.컨셉](#컨셉)
 ### [2.관련 이미지와 동영상](#관련-이미지-동영상)
 ### [3.대표 이미지 그리고 컨셉과 대표이미지 기반 작품 묘사](#대표-이미지)
-### [4.TUNDRA의 구성 요소](#구성-요소)
+### [4.Find a member의 구성 요소](#구성-요소)
 ### [5.게임 시스템 디자인](#게임-시스템-디자인)
-### [6.요구사항(6주차)](#6)
-### [7.요구사항(1년차)](#66)
-### [8.키보드 이벤트에 대한 흐름도](#7)
-### [9.용어 정리](#8)
+
 
 
 
@@ -224,9 +221,11 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 
 ## 1 플레이어 
 
-1.플레이어         player       공통         체력 80    
 
-<img src="https://user-images.githubusercontent.com/114119568/195470895-feda565f-0fce-43a7-9879-354ca9a0dbe8.png"  width="200" height="200"/>
+|연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|플레이어|player|<img src="https://user-images.githubusercontent.com/114119568/195470895-feda565f-0fce-43a7-9879-354ca9a0dbe8.png"  width="200" height="200"/>|
+
 
 <br>
 
@@ -250,101 +249,69 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 |연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|
 |1|천원지폐(100원)|Coin||
-|2|오천원지폐(500원) |silverCoin|<img src="https://user-images.githubusercontent.com/114119568/195470850-a3de8ff3-92ab-4911-b331-9fae3e481b24.png"  width="200" height="200"/>|
-|3|만원지폐(1000원) |goldCoin|<img src="https://user-images.githubusercontent.com/114119568/195470713-40a43dd1-ac6b-4fe8-aeb6-93e63fcd55ee.png"  width="200" height="200"/>|
+|2|오천원지폐(500원) |silverCoin||
+|3|만원지폐(1000원) |goldCoin||
 |4|아이템상자|itemBox|<img src="https://user-images.githubusercontent.com/114119568/195478624-bca07ebc-b643-4bd5-88f5-e6f8cdc9bb55.png"  width="200" height="100"/>|
 |5|동전상자|CoinBox|<img src="https://user-images.githubusercontent.com/114119568/195478956-08b5f116-8aad-4d0b-a875-5e037aa1332a.png"  width="200" height="120"/>|
-
-
-
-
-1.천원지폐(100원)      Coin          몬스터 죽이거나 동전상자드랍
-
-2.오천원지폐(500원)    silverCoin    몬스터 죽이거나 동전상자드랍
-
-3.만원지폐(1000원)   goldCoin      몬스터 죽이거나 동전상자드랍
-
-4.아이템상자       itemBox       아이템스테이지 클리어시 드랍
-
-5.동전상자         CoinBox       골드스테이지에서 클리어시 드랍
-
 
 
 <br>
 
 ## 4. 스테이지    
 
-1.마을스테이지     villageStage
+|연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|마을|village||
+|2|아이템문|itmeDoor||
+|3|골드문|GoldDoor||
+|4|상점문|shopDoor||
+|5|보스문|bossDoor||
 
-2.아이템스테이지   itmeStage
-
-3.골드스테이지     GoldStage  
-
-4.상점스테이지     shopStage    
-
-5.보스스테이지     bossStage   
 
 
 <br>
 
 ## 5. 상점    
 
-1.무기상점         weaponShop
-
-2.음식상점         foodShop
-
+|연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|무기상점|weaponShop||
+|2|음식상점|foodShop||
 
 <br>
 
 ## 6. 근접무기    
 
-1.일반검(일반)      knife           기본보유                    8~10데미지    초당속도3
 
-2.빠루             crowbar         상자드랍 또는 상점구매      
-
-<img src="https://user-images.githubusercontent.com/114119568/195470377-049ef523-4b9a-492a-9a5d-27a0e8232ce3.png"  width="200" height="200"/>
-
+|연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|일반검(일반)|knife||
+|2|빠루|crowbar|<img src="https://user-images.githubusercontent.com/114119568/195470377-049ef523-4b9a-492a-9a5d-27a0e8232ce3.png"  width="200" height="200"/>|
+|3|채찍|whip||
+||카타나|katana|<img src="https://user-images.githubusercontent.com/114119568/195470254-223218a5-0ee3-4f4d-a04b-19718ceea1d5.png"  width="200" height="200"/>|
+||글라디우스|gladius||
  
-3.채찍             whip            상자드랍 또는 상점구매
 
-4.카타나           katana          상자드랍 또는 상점구매
-
-<img src="https://user-images.githubusercontent.com/114119568/195470254-223218a5-0ee3-4f4d-a04b-19718ceea1d5.png"  width="200" height="200"/>
-
-5.글라디우스       gladius         상자드랍 또는 상점구매
 
 
 <br>
 
 ## 6. 원거리무기    
 
-1.권총(일반)        Gun            상자드랍 또는 상점구매        5데미지      탄창10발
+|연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|권총(일반)|Gun||
+|2|리볼버|revolver||
+|3|샷건|shotgun||
+|4|돌격소총|assaultRifle||
+|5|기관단총|submachineGun||
+|6|저격총(전설)|sniperRifle|<img src="https://user-images.githubusercontent.com/114119568/195470134-902bb245-0c00-46ed-ad4c-152a92df4960.png"  width="200" height="200"/>|
+|7|수류탄|grenade|<img src="https://user-images.githubusercontent.com/114119568/195470008-1e9b4b42-c658-4070-9c28-db1fa38fdb7d.png"  width="200" height="200"/>|
 
 
 
-2.리볼버           revolver        상자드랍 또는 상점구매        10~15데미지  탄창6발
 
 
-
-3.샷건             shotgun         상자드랍 또는 상점구매    
-
-
-
-4.돌격소총         assaultRifle    상자드랍 또는 상점구매
-
-
-
-5.기관단총         submachineGun   상자드랍 또는 상점구매
-
-
-
-6.저격총(전설)     sniperRifle     상자드랍 또는 상점구매        36~50데미지  탄창5발
-
-<img src="https://user-images.githubusercontent.com/114119568/195470134-902bb245-0c00-46ed-ad4c-152a92df4960.png"  width="200" height="200"/>
-
-7.수류탄           grenade         상자드랍 또는 상점구매
-
-<img src="https://user-images.githubusercontent.com/114119568/195470008-1e9b4b42-c658-4070-9c28-db1fa38fdb7d.png"  width="200" height="200"/>
 
 
 
@@ -353,29 +320,24 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 
 ## 7. 함정    
 
-1.가시        ThornTrap      
-
-<img src="https://user-images.githubusercontent.com/114119568/195470503-68eccd9b-a5eb-45e8-b10e-3f541984accf.png"  width="200" height="200"/>
-
-
+|연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|가시|ThornTrap|<img src="https://user-images.githubusercontent.com/114119568/195470503-68eccd9b-a5eb-45e8-b10e-3f541984accf.png"  width="200" height="200"/>|
 
 <br>
 
-## 7. UI    
+## 8. UI    
 
-1.체력,레벨      playerHPandLevel
+|연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|체력,레벨|playerHPandLevel||
+|2|대쉬칸|dashGauge||
+|3|소유골드|MyCoin||
+|4|소유무기|MyWeapon||
+|5|스킬1,2|skill1,2||
+|6|인벤토리|Inventory||
+|7|조준점|aiming point||
 
-2.대쉬칸            dashGauge
-
-3.소유골드          MyCoin
-
-4.소유무기        MyWeapon
-
-5.스킬1,2          skill1,2
-
-6.인벤토리         Inventory
-
-7.조준점          aiming point
 
 
 
@@ -383,7 +345,13 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 
 ## 8. 보스     
 
-1.진짜왁굳   RealWakgood
+|연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|진짜왁굳|RealWakgood|<img src="https://user-images.githubusercontent.com/114119568/195469728-ab9fafa6-172e-4e19-bd46-6bf1edc0b39d.png"  width="200" height="200"/>|
 
-<img src="https://user-images.githubusercontent.com/114119568/195469728-ab9fafa6-172e-4e19-bd46-6bf1edc0b39d.png"  width="200" height="200"/>
+
+
+
+
+
 
