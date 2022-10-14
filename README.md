@@ -295,7 +295,8 @@ F: 상호작용(아이템드랍, 상점캐릭터 말걸기등등)
 |2|빠루|crowbar|<img src="https://user-images.githubusercontent.com/114119568/195470377-049ef523-4b9a-492a-9a5d-27a0e8232ce3.png"  width="200" height="200"/>|
 |3|채찍|whip|<img src="https://user-images.githubusercontent.com/114119568/195628095-dfae8a3a-161b-4638-9b6e-bdcac08abe9d.png"  width="200" height="200"/>|
 |4|카타나|katana|<img src="https://user-images.githubusercontent.com/114119568/195470254-223218a5-0ee3-4f4d-a04b-19718ceea1d5.png"  width="200" height="200"/>|
-|5|글라디우스|gladius||
+|5|글라디우스|gladius|<img src="https://user-images.githubusercontent.com/114119568/195802818-57c7b070-632a-4cf3-bf2f-5c9bb90c591e.png"  width="200" height="200"/>|
+
 
 
 
