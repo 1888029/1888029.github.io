@@ -369,8 +369,7 @@ F: 상호작용(상점캐릭터 말걸기, 상자열기, 다음스테이지 )
  
 
 
-1) 오브젝트 이름 :knife, crowbar, whip, katana, gladius, Gun, revolver, shotgun, assaultRifle,  sniperRifle, 
-submachineGun, grenade
+### 1) 오브젝트 이름 :knife, crowbar, whip, katana, gladius, Gun, revolver, shotgun, assaultRifle,  sniperRifle, submachineGun, grenade
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
@@ -382,16 +381,27 @@ submachineGun, grenade
 |총알속도|bullet speed|총알이 적에게 언제도달하는지 알 수 있는 속도||
 |조준정확도|Aim|탄퍼짐이 있는 설정||
 
-2) 오브젝트 이름 :chimpanzeeA, chimpanzeeB, bat, babybat
+### 2) 오브젝트 이름 :chimpanzeeA, chimpanzeeB, bat, babybat
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
-|체력|enemyHP|적의 체력을 설정하는 것||
-|공격력|damage|적의 데미지를 설정한다||
+|최대체력|MaxHp|최대체력을 설정||
+|현재체력|CurrentHp|체력을 설정||
+|피해량|damage|적의 데미지를 설정한다||
 |투사체속도|projectile speed|원거리공격의 속도를 설정한다||
 |감지범위|detection range|플레이어가 감지범위에 들어오는지 설정한다||
 |이동속도|speed|적의 이동속도가 어느정도로 할지 설정한다||
 |공격속도|attack speed|적의 공격이 초당몇번공격할지 설정하는것||
+
+### 3) 오브젝트 이름 :RealWakgood
+
+|속성|영문명칭|설명|비고|
+|:----:|:----:|:----:|:----:|
+|최대체력|MaxHp|보스의 최대체력을 설정||
+|현재체력|CurrentHp|보스의 체력을 설정||
+|피해량|damage|데미지 설정||
+|투사체속도|projectile speed|원거리공격의 속도를 설정한다||
+|패턴|pattern|보스의 공격패턴을 결정||
 
 
 <br>
@@ -400,7 +410,7 @@ submachineGun, grenade
    
 
 
-1) 오브젝트 이름 :player
+### 1) 오브젝트 이름 :player
 
 |속성|영문명칭|설명|
 |:----:|:----:|:----:|
@@ -416,7 +426,7 @@ submachineGun, grenade
 |대쉬공격|dash attack|근접무기 장착 후 적에게 대쉬하면 대미지를 줄 수 있다.|
 
 
-2) 오브젝트 이름 :chimpanzeeA, chimpanzeeB, bat, babybat
+### 2) 오브젝트 이름 :chimpanzeeA, chimpanzeeB, bat, babybat
 
 |속성|영문명칭|설명|
 |:----:|:----:|:----:|
@@ -430,7 +440,7 @@ submachineGun, grenade
 ## 5-4. 상태 뽑아 보기  <a name='상태-뽑아-보기'></a>
    
 
-1) 오브젝트 이름 : player
+### 1) 오브젝트 이름 : player
 
 |현상태|전이상태|전이조건|
 |:----:|:----:|:----:|
@@ -442,7 +452,7 @@ submachineGun, grenade
 |사망|평상시|사망 후 마을스테이지로 이동했을 때|
 
 
-2) 오브젝트 이름 : chimpanzeeA, chimpanzeeB, bat, babybat
+### 2) 오브젝트 이름 : chimpanzeeA, chimpanzeeB, bat, babybat
 
 |현상태|전이상태|전이조건|
 |:----:|:----:|:----:|
@@ -452,7 +462,7 @@ submachineGun, grenade
 |평상시|사망|몬스터의 체력이 0이하가 되었을때|
 
 
-3) 오브젝트 이름 : CoinBox, itemBox
+### 3) 오브젝트 이름 : CoinBox, itemBox
 
 |현상태|전이상태|전이조건|
 |:----:|:----:|:----:|
@@ -460,7 +470,7 @@ submachineGun, grenade
 |열음|아이템|상자를 열을 때 아이템이 나올때|
 
 
-4) 오브젝트 이름 : itmeDoor, GoldDoor, ShopDoor, BossDoor
+### 4) 오브젝트 이름 : itmeDoor, GoldDoor, ShopDoor, BossDoor
 
 |현상태|전이상태|전이조건|
 |:----:|:----:|:----:|
@@ -487,7 +497,7 @@ submachineGun, grenade
 ## 5-6. 게임의 규칙 <a name='게임의-규칙'></a>
 
 
-1) 핵심 규칙
+### 1) 핵심 규칙
 
 1. 마을에서 던전으로 입장할 때 아이템이 나오는 스테이지와 돈을 주는 스테이지중 하나를 골라서 입장한다.
 
@@ -507,7 +517,7 @@ submachineGun, grenade
 
 
 
-2) 보조 규칙
+### 2) 보조 규칙
 
 1. 스테이지에 있는 몬스터들을 전부 해치워야 다음 스테이지로 이동할 수 있다.
 
