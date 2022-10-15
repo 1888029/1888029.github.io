@@ -541,19 +541,20 @@ F: 상호작용(상점캐릭터 말걸기, 상자열기, 다음스테이지 )
 
 ## 5-7. 게임에서 사용될 공식 <a name='게임에서-사용될-공식'></a>
 
+
 1.체력감소 CurrentHp -= damage
 
 2.체력회복  CurrentHp += MaxHp*heel/100
 
 3.: CurrentDash -= Dash
 
-4 대쉬회복 CurrentDash += CoolTime
+4.대쉬회복 CurrentDash += CoolTime
 
 5.무기구매, 음식구매: MyCoin -= weaponShop, foodShop
 
 6.스킬사용 Skill -= CoolTime
 
-7 스킬복구 Skill += CoolTime
+7.스킬복구 Skill += CoolTime
 
 
 
