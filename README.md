@@ -550,6 +550,7 @@ F: 상호작용(상점캐릭터 말걸기, 상자열기, 다음스테이지 )
 7. 스킬복구 Skill += CoolTime
 8. 레벨업 CurrentLevrl += 1
 9. 대쉬횟수증가 CurrentLevrl % 10 += 1 
+10. 최대체력증가 MaxHp += CurrentLevrl
 
 
 
