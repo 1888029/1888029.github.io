@@ -278,9 +278,10 @@ F: 상호작용(상점캐릭터 말걸기, 상자열기, 다음스테이지 )
 |:----:|:----:|:----:|:----:|
 |1|마을|village||
 |2|아이템문|itmeDoor||
-|3|골드문|GoldDoor||
+|3|골드문|GoldDoor|<img src="https://user-images.githubusercontent.com/114119568/196044035-45a7e163-f0e8-47c8-a33d-2030391cc6d0.png"  width="200" height="150"/>|
 |4|상점문|shopDoor||
 |5|보스문|bossDoor||
+
 
 
 
