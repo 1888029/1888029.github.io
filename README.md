@@ -245,15 +245,14 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 <br>
 
-### 4. 스테이지    
+### 4. 던전 입구    
 
 |연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|
-|1|마을|village||
-|2|아이템문|itmeDoor||
-|3|골드문|GoldDoor|<img src="https://user-images.githubusercontent.com/114119568/196218279-d36bfb77-35b4-4a99-a1e8-81a3f28046df.png"  width="200" height="200"/>|
-|4|상점문|shopDoor||
-|5|보스문|bossDoor||
+|1|아이템문|itmeDoor||
+|2|골드문|GoldDoor|<img src="https://user-images.githubusercontent.com/114119568/196218279-d36bfb77-35b4-4a99-a1e8-81a3f28046df.png"  width="200" height="200"/>|
+|3|상점문|shopDoor||
+|4|보스문|bossDoor||
 
 
 
@@ -288,12 +287,12 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 |연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|
-|1|권총(일반)|Gun||
+|1|권총|Gun||
 |2|리볼버|revolver||
 |3|샷건|shotgun||
 |4|돌격소총|assaultRifle||
 |5|기관단총|submachineGun||
-|6|저격총(전설)|sniperRifle|<img src="https://user-images.githubusercontent.com/114119568/195470134-902bb245-0c00-46ed-ad4c-152a92df4960.png"  width="200" height="200"/>|
+|6|저격총|sniperRifle|<img src="https://user-images.githubusercontent.com/114119568/195470134-902bb245-0c00-46ed-ad4c-152a92df4960.png"  width="200" height="200"/>|
 |7|수류탄|grenade|<img src="https://user-images.githubusercontent.com/114119568/195470008-1e9b4b42-c658-4070-9c28-db1fa38fdb7d.png"  width="200" height="200"/>|
 
 
@@ -336,7 +335,7 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 |연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|
-|1|진짜왁굳|RealWakgood|<img src="https://user-images.githubusercontent.com/114119568/195469728-ab9fafa6-172e-4e19-bd46-6bf1edc0b39d.png"  width="200" height="200"/>|
+|1|보스|Boss|<img src="https://user-images.githubusercontent.com/114119568/195469728-ab9fafa6-172e-4e19-bd46-6bf1edc0b39d.png"  width="200" height="200"/>|
 
 
 <br>
@@ -369,7 +368,7 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 |이동속도|Speed|적의 이동속도가 어느정도로 할지 설정한다||
 |공격속도|AttackSpeed|적의 공격이 초당몇번공격할지 설정하는것||
 
-### 3) 오브젝트 이름 :RealWakgood
+### 3) 오브젝트 이름 :Boss
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
