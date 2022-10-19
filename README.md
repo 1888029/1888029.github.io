@@ -256,7 +256,8 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 |1|아이템문|itmeDoor|<img src="https://user-images.githubusercontent.com/114119568/196474762-24c51dab-0963-4bf1-9557-ffbcb9cf2330.png"  width="200" height="200"/>|
 |2|골드문|GoldDoor|<img src="https://user-images.githubusercontent.com/114119568/196218279-d36bfb77-35b4-4a99-a1e8-81a3f28046df.png"  width="200" height="200"/>|
 |3|상점문|shopDoor|<img src="https://user-images.githubusercontent.com/114119568/196659088-721f7080-f1ec-4a5f-a1df-214fc1e33f75.png"  width="200" height="200"/>|
-|4|보스문|bossDoor|<img src="https://user-images.githubusercontent.com/114119568/196682285-167c109c-9972-45c1-b519-da75693e3e88.png"  width="200" height="200"/>|
+|4|보스문|bossDoor|<img src="https://user-images.githubusercontent.com/114119568/196684357-51716d48-e28f-41ed-929c-357b61198d0e.png"  width="200" height="200"/>|
+
 
 
 
