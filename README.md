@@ -300,12 +300,11 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 |:----:|:----:|:----:|:----:|
 |1|권총|Gun|<img src="https://user-images.githubusercontent.com/114119568/196693101-792c85ad-4c27-48da-be85-e5b8e7e398c8.png"  width="200" height="200"/>|
 |2|리볼버|revolver|<img src="https://user-images.githubusercontent.com/114119568/196699996-2a7d854e-0489-4097-bc52-af66b1f3ed70.png"  width="200" height="200"/>|
-|3|샷건|shotgun||
+|3|샷건|shotgun|<img src="https://user-images.githubusercontent.com/114119568/196703159-8fc4ed3b-5c9a-4800-a253-2947933517c1.png"  width="200" height="200"/>|
 |4|돌격소총|assaultRifle||
 |5|기관단총|submachineGun||
 |6|저격총|sniperRifle|<img src="https://user-images.githubusercontent.com/114119568/195470134-902bb245-0c00-46ed-ad4c-152a92df4960.png"  width="200" height="200"/>|
 |7|수류탄|grenade|<img src="https://user-images.githubusercontent.com/114119568/195470008-1e9b4b42-c658-4070-9c28-db1fa38fdb7d.png"  width="200" height="200"/>|
-
 
 
 
