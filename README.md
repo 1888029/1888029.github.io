@@ -222,10 +222,11 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 |연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|
-|1|침팬지|chimpanzeeA||
+|1|침팬지|chimpanzeeA|<img src="https://user-images.githubusercontent.com/114119568/196628882-ed646e9b-5310-40c6-9746-0799267ce6d7.png"  width="200" height="200"/>|
 |2|침팬지(원거리형)|chimpanzeeB|<img src="https://user-images.githubusercontent.com/114119568/195470850-a3de8ff3-92ab-4911-b331-9fae3e481b24.png"  width="200" height="200"/>|
 |3|일반박쥐|bat|<img src="https://user-images.githubusercontent.com/114119568/195470713-40a43dd1-ac6b-4fe8-aeb6-93e63fcd55ee.png"  width="200" height="200"/>|
-|4|일반박쥐|babybat|<img src="https://user-images.githubusercontent.com/114119568/195470771-646b4f09-af18-4738-a3bc-175369609513.png"  width="200" height="200"/>|
+|4|박쥐|babybat|<img src="https://user-images.githubusercontent.com/114119568/195470771-646b4f09-af18-4738-a3bc-175369609513.png"  width="200" height="200"/>|
+
 
 
 
