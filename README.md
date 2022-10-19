@@ -298,7 +298,7 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 |연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|
-|1|권총|Gun||
+|1|권총|Gun|<img src="https://user-images.githubusercontent.com/114119568/196693101-792c85ad-4c27-48da-be85-e5b8e7e398c8.png"  width="200" height="200"/>|
 |2|리볼버|revolver||
 |3|샷건|shotgun||
 |4|돌격소총|assaultRifle||
