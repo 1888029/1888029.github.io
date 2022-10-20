@@ -283,7 +283,7 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 |연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|
-|1|일반검(일반)|knife|<img src="https://user-images.githubusercontent.com/114119568/195651099-73651989-a59b-4af9-86ba-87b80bb95c4e.png"  width="200" height="200"/>|
+|1|일반검|knife|<img src="https://user-images.githubusercontent.com/114119568/195651099-73651989-a59b-4af9-86ba-87b80bb95c4e.png"  width="200" height="200"/>|
 |2|빠루|crowbar|<img src="https://user-images.githubusercontent.com/114119568/195470377-049ef523-4b9a-492a-9a5d-27a0e8232ce3.png"  width="200" height="200"/>|
 |3|채찍|whip|<img src="https://user-images.githubusercontent.com/114119568/195628095-dfae8a3a-161b-4638-9b6e-bdcac08abe9d.png"  width="200" height="200"/>|
 |4|카타나|katana|<img src="https://user-images.githubusercontent.com/114119568/195470254-223218a5-0ee3-4f4d-a04b-19718ceea1d5.png"  width="200" height="200"/>|
