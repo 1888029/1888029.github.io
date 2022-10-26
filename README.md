@@ -274,7 +274,9 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 |연번|오브젝트 이름|오브젝트 영문명|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|
 |1|무기상점|weaponShop||
-|2|음식상점|foodShop||
+|2|음식상점|foodShop|<img src="https://user-images.githubusercontent.com/114119568/197971789-0ebd1ec2-b9a3-435c-b173-42deb8646fdc.png"  width="200" height="200"/>|
+
+
 
 <br>
 
