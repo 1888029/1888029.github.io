@@ -336,8 +336,9 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 |4|소유무기|MyWeapon||
 |5|스킬1,2|skill1,2||
 |6|인벤토리|Inventory||
-|7|조준점|aiming point||
+|7|조준점|aiming point|<img src="https://user-images.githubusercontent.com/114119568/197977148-d8f610bb-7061-479c-a5a6-86fe303e6421.png"  width="200" height="200"/>|
 |8|미니맵|MiniMap||
+
 
 
 
