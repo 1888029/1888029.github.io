@@ -695,12 +695,13 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 목표: 모든 오브젝트 제작한 다음 플레이어 간단한 이동
 
 
-<img src="https://user-images.githubusercontent.com/114119568/199484728-784384f4-c965-424e-b81c-1e72341da2d8.png"  />
+<img src="https://user-images.githubusercontent.com/114119568/199484728-784384f4-c965-424e-b81c-1e72341da2d8.png" width="300" height="200"  />
 
 피스켈로 모든 오브젝트를 이런 방식으로 제작중이다.
 
 
-<img src="https://user-images.githubusercontent.com/114119568/199490643-8420a0c0-0a5e-4fc2-b0de-75745114c13b.mp4"  />
+https://user-images.githubusercontent.com/114119568/200177276-83ca5e98-cad0-4f33-ae84-dd8887abb6f6.mp4
+
 
 플레이어의 간단한 이동 방식만 구현했다.
 
