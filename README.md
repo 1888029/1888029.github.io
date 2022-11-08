@@ -699,8 +699,8 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 피스켈로 모든 오브젝트를 이런 방식으로 제작중이다.
 
+<img src="https://user-images.githubusercontent.com/114119568/200177276-83ca5e98-cad0-4f33-ae84-dd8887abb6f6.mp4"  />
 
-https://user-images.githubusercontent.com/114119568/200177276-83ca5e98-cad0-4f33-ae84-dd8887abb6f6.mp4
 
 
 플레이어의 간단한 이동 방식만 구현했다.
