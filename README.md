@@ -710,4 +710,11 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 <img src="https://user-images.githubusercontent.com/114119568/200778568-216b8a46-62e5-47b6-9769-380242642150.png" width="300" height="200"  />
 플레이어의 마우스커서로 방향전환을 할수 있으며 마우스커서기준으로 앞으로가기 뒤로가기 애니메이션을 구현했다
 
+<img src="https://user-images.githubusercontent.com/114119568/200779192-786d7b4a-2475-4040-a1e7-1af94da1dfc5.png" width="300" height="200"  />
+플레이어의 스페이스바를 누르는 시간에 따라 점프높이가 달라지게 해놨으며 무한점프를 못하게 1번만 점프할수있게 구현해놨다.
 
+<img src="https://user-images.githubusercontent.com/114119568/200780846-5c8fde38-5c66-4e63-8cbe-c86677352c3e.png" width="300" height="200"  />
+플레이어의 마우스방향에 따라 대쉬를 할수있으며 대쉬갯수가 소모되면 자동적으로 3초마다 찰수있게 구현을 했지만 아직 대쉬부분이 아쉬운부분이 있어 수정 할 예정이다.
+
+
+### 3주차
