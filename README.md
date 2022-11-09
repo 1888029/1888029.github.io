@@ -773,6 +773,19 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 
 
+#### 무기들
+
+
+<img src="https://user-images.githubusercontent.com/114119568/200808916-de5f7b1a-d482-4e55-a4a7-8b32b02b72fe.png" width="300" height="200"  />
+
+1. 플레이어가 마우스 우클릭을 눌렀을때 총알이라는 오브젝트가 조준하는방향에서 생성되며 그방향으로 날아간다. 
+2. 재장전키를 눌렸을때 재장전때에는 총알이 못나오게 설정했다.
+
+
+<img src="https://user-images.githubusercontent.com/114119568/200810204-b0cdbee8-b44e-414d-b69d-eede9f5b4708.png" width="400" height="200"  />
+
+1. 플레이어가 마우스 우클릭을 눌렀을때 검기라는 오브젝트가 조준하는방향에서 생성된다. 
+
 
 
 
