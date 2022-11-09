@@ -699,13 +699,15 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 피스켈로 모든 오브젝트를 이런 방식으로 제작중이다.
 
-<img src="https://user-images.githubusercontent.com/114119568/200177276-83ca5e98-cad0-4f33-ae84-dd8887abb6f6.mp4"  />
-
-
-
+<img width="400" src="https://user-images.githubusercontent.com/114119568/200776099-fa898c12-2658-437a-8f77-d65a7e1e2397.gif" />
 플레이어의 간단한 이동 방식만 구현했다.
 
 ### 2주차
 
 목표: 플레이어의 추가된 조작키(마우스커서의 방향정하기, 점프, 대쉬)
+
+<img src="https://user-images.githubusercontent.com/114119568/200776734-b0649f54-a885-458a-92bb-5b9828742e21.png" width="300" height="200"  />
+<img src="https://user-images.githubusercontent.com/114119568/200778568-216b8a46-62e5-47b6-9769-380242642150.png" width="300" height="200"  />
+플레이어의 마우스커서로 방향전환을 할수 있으며 마우스커서기준으로 앞으로가기 뒤로가기 애니메이션을 구현했다
+
 
