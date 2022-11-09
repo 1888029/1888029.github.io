@@ -787,6 +787,9 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 1. 플레이어가 마우스 우클릭을 눌렀을때 검기라는 오브젝트가 조준하는방향에서 생성된다. 
 
 
+|권총|기관단총|검|
+|:----:|:----:|:----:|
+|<img width="300" src="https://user-images.githubusercontent.com/114119568/200816984-88eb90e4-84c8-4dd3-ac86-55cb094470c4.gif" />|<img width="300" src="https://user-images.githubusercontent.com/114119568/200817019-189e4e47-b55d-48ef-aa8d-907bc9560795.gif" />| <img width="300" src="https://user-images.githubusercontent.com/114119568/200817070-d6277e1f-ce04-4385-a625-317d8d9f4630.gif" /> |
 
 
 
