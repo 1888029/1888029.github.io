@@ -694,37 +694,88 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 # 9. 프로토타입 개발작업 일정 (6주개발)<a name='개발작업'></a>
 
-### 1주차 <a name='1주차'></a>
+## 1주차 <a name='1주차'></a>
 목표: 모든 오브젝트 제작한 다음 플레이어 간단한 이동
 
 
 <img src="https://user-images.githubusercontent.com/114119568/199484728-784384f4-c965-424e-b81c-1e72341da2d8.png" width="300" height="200"  />
 
-피스켈로 모든 오브젝트를 이런 방식으로 제작중이다.
+1. 피스켈로 모든 오브젝트를 이런 방식으로 제작중이다.
 
-<img width="400" src="https://user-images.githubusercontent.com/114119568/200776099-fa898c12-2658-437a-8f77-d65a7e1e2397.gif" />
-플레이어의 간단한 이동 방식만 구현했다.
 
-### 2주차 <a name='2주차'></a>
+|왼쪽 오른쪽 간단한 이동구현|
+|:----:|
+|<img width="400" src="https://user-images.githubusercontent.com/114119568/200776099-fa898c12-2658-437a-8f77-d65a7e1e2397.gif" />|
+
+
+## 2주차 <a name='2주차'></a>
  
 
-목표: 플레이어의 추가된 조작키(마우스커서의 방향정하기, 점프, 대쉬)
+### 목표: 플레이어의 추가된 조작키(마우스커서의 방향정하기, 점프, 대쉬)
 
 <img src="https://user-images.githubusercontent.com/114119568/200778568-216b8a46-62e5-47b6-9769-380242642150.png" width="300" height="200"  />
-플레이어의 애니메이션 설정부분이다.
+
+1. 플레이어의 애니메이션 설정부분이다.
+
+#### 마우스커서기준 이동
 
 <img src="https://user-images.githubusercontent.com/114119568/200776734-b0649f54-a885-458a-92bb-5b9828742e21.png" width="300" height="200"  />
-플레이어의 마우스커서로 방향전환을 할수 있으며 마우스커서기준으로 앞으로가기 뒤로가기 애니메이션을 구현했다
+
+1. 플레이어의 마우스커서로 방향전환을 할수있다.
+2. 마우스커서 기준으로 앞으로가기 뒤로가기 애니메이션을 구현했다.
+
+#### 플레이어 점프
 
 <img src="https://user-images.githubusercontent.com/114119568/200779192-786d7b4a-2475-4040-a1e7-1af94da1dfc5.png" width="300" height="200"  />
-플레이어의 스페이스바를 누르는 시간에 따라 점프높이가 달라지게 해놨으며 무한점프를 못하게 1번만 점프할수있게 구현해놨다.
+
+1. 플레이어의 스페이스바를 누르는 시간에 따라 점프높이가 달라지게 구현했다. 
+2. 무한점프를 하지 못하게 1번만 점프할수있게 설정했다.
+
+#### 플레이어 대쉬
 
 <img src="https://user-images.githubusercontent.com/114119568/200780846-5c8fde38-5c66-4e63-8cbe-c86677352c3e.png" width="300" height="200"  />
-플레이어의 마우스방향에 따라 대쉬를 할수있으며 대쉬갯수가 소모되면 자동적으로 3초마다 찰수있게 구현을 했지만 아직 대쉬부분이 아쉬운부분이 있어 수정 할 예정이다.
+
+1. 플레이어의 마우스방향에 따라 대쉬를 할수있게 구현했다.
+2. 대쉬를 할때 마다 대쉬갯수가 소모된다.
+3. 대쉬갯수가 소모되면 3초마다 대쉬갯수가 1개씩생성한다.
+4. 아직 아쉬운 부분이 있어서 고치는중이다.
+
+
 
 |점프|마우스커서기준 이동|대쉬|
 |:----:|:----:|:----:|
 |<img width="300" src="https://user-images.githubusercontent.com/114119568/200786352-db9e7a68-9f1c-48a9-8263-627626e88dbd.gif" />|<img width="300" src="https://user-images.githubusercontent.com/114119568/200786525-f014108a-59d4-4238-8fad-bca8a45f26cb.gif" />| <img width="300" src="https://user-images.githubusercontent.com/114119568/200786597-6a605ee7-2ae7-474e-97b4-1c680c0660b4.gif" /> |
 
 
-### 3주차 <a name='3주차'></a>
+## 3주차 <a name='3주차'></a>
+
+### 목표: 2주차 못한 구현과 무기제작
+
+
+
+#### 상자
+
+
+<img src="https://user-images.githubusercontent.com/114119568/200805649-f1c2f3a8-d9ea-4f34-ba24-5b4848a34c03.png" width="300" height="200"  />
+
+1. 플레이어가 상자에 접촉을 안하면 상자를 상호작용키를 눌러도 못열게 구현했다.
+2. 플레이거가 상자에 접촉하고 상호작용키를 누르면 상자가 열린다.
+
+
+<img src="https://user-images.githubusercontent.com/114119568/200806011-528424d9-e066-44ba-8557-9162ba7a0ce6.png" width="300" height="200"  />
+
+3. 상자가 열리면 상자 오브젝트안에 있는 오브젝트들중에서 1개를 랜덤으로 나오게 설정했다.
+
+
+|코인상자|아이템상자|
+|:----:|:----:|
+|<img width="300" src="https://user-images.githubusercontent.com/114119568/200807629-e61fd769-8590-4c6a-b693-78a36b74b759.gif" />|<img width="300" src="https://user-images.githubusercontent.com/114119568/200807640-343c8137-b1a1-41a6-8331-ebbea9bb0a30.gif" />| 
+
+
+
+
+
+
+
+
+
