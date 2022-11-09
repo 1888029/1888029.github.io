@@ -742,7 +742,7 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 
 
-|점프|마우스커서기준 이동|대쉬|
+|점프|대쉬|마우스커서기준 이동|
 |:----:|:----:|:----:|
 |<img width="300" src="https://user-images.githubusercontent.com/114119568/200786352-db9e7a68-9f1c-48a9-8263-627626e88dbd.gif" />|<img width="300" src="https://user-images.githubusercontent.com/114119568/200786525-f014108a-59d4-4238-8fad-bca8a45f26cb.gif" />| <img width="300" src="https://user-images.githubusercontent.com/114119568/200786597-6a605ee7-2ae7-474e-97b4-1c680c0660b4.gif" /> |
 
