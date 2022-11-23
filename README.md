@@ -811,6 +811,11 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 
 
+|감지범위에 닿았을 경우|멀리서 적을 공격했을경우|
+|:----:|:----:|
+|<img width="300" src="https://user-images.githubusercontent.com/114119568/203522251-abec6f03-fc0c-41a3-9a6d-01cd7ef82d96.gif" />|<img width="300" src="https://user-images.githubusercontent.com/114119568/203522226-5aac564f-8588-4d01-8074-d49f9568f3f7.gif" />| 
+
+
 
 
 
