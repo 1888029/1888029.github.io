@@ -808,6 +808,25 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 ### 목표: 몬스터 AI 구현
 
+<img src="https://user-images.githubusercontent.com/114119568/203529153-e987831e-9922-4f13-b896-d8933e1e8fb0.png" width="300" height="200"  />
+
+1. 만약 감지범위에 들어왔을때 감지범위가 50으로 설정된다.
+
+
+<img src="https://user-images.githubusercontent.com/114119568/203529414-ce83eae7-48e7-4613-af85-374cd4d4474f.png" width="300" height="200"  />
+
+2. 또한 원거리무기로 적을 공격하면 똑같이 감지범위는 50으로 설정된다.
+
+
+<img src="https://user-images.githubusercontent.com/114119568/203528273-b06d139e-0512-44d7-98fd-be453ae7a6ee.png" width="300" height="200"  />
+
+3. 플레이어가 몬스터의 감지범위에 들어왔을때 플레이어를 추적한다.
+
+<img src="https://user-images.githubusercontent.com/114119568/203528504-89b7267b-f117-4d34-8991-a12e78b853bc.png" width="500" height="200"  />
+
+4. 몬스터가 공격할때 EnemyBullet이라는 박스콜라이더가 생성된다.
+5. EnemyBullet이 플레이어에 닿았을때 데미지를 받는다.
+6. BulletSpeed를 올리면 원거리공격으로 바뀐다.
 
 
 
