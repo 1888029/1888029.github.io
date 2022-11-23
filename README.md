@@ -841,3 +841,26 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 ## 5주차 <a name='5주차'></a>
 
 ### 목표: 스테이지맵 제작하기
+
+<img src="https://user-images.githubusercontent.com/114119568/203593497-546b11e3-35dd-415d-81bc-654748ad5c70.png" width="500" height="200"  />
+
+1. 처음에는 마을맵에서 시작한다.
+2. 그리고 플레이어가 죽었을때 돌아오는곳도 이 마을맵이다.
+
+
+<img src="https://user-images.githubusercontent.com/114119568/203593514-1a96b210-16ea-4f6b-80e4-fb3e06ef4bb7.png" width="500" height="200"  />
+
+3. 마을 오른쪽으로 끝까지 가면 던전입구로 들어가는 맵이다.
+4. 던전입구로 들어오면 마을로 못 들어가게 할것이다.
+
+<img src="https://user-images.githubusercontent.com/114119568/203593503-6e3ad8be-cd3c-4fac-9e21-c4da4c24d112.png" width="500" height="200"  />
+
+5. 상점 스테이지는 휴식하는 곳이다.
+6. 상점스테이지 시간대는 저녁으로 설정했다.
+7. 무기상점은 나중에 넣을것이다.
+
+
+|마을|던전입구|상점|
+|:----:|:----:|:----:|
+|<img width="300" src="https://user-images.githubusercontent.com/114119568/203596183-9366851d-74e7-4817-93a6-18bb7d0503b2.gif" />|<img width="300" src="https://user-images.githubusercontent.com/114119568/203596241-58a8cf66-1373-48da-a1ed-9afc5dbe3c2f.gif" />| <img width="300" src="https://user-images.githubusercontent.com/114119568/203596300-c41fc979-d068-4cdf-a282-b69a3b04a6bb.gif" /> |
+
