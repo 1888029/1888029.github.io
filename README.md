@@ -31,7 +31,7 @@ Find a member(이현준) 1888029 이현준
 - [3주차](#3주차 )
 - [4주차](#4주차 )
 - [5주차](#5주차 )
-
+- [6주차](#6주차 )
 
 
 
@@ -864,3 +864,7 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 |:----:|:----:|:----:|
 |<img width="300" src="https://user-images.githubusercontent.com/114119568/203596183-9366851d-74e7-4817-93a6-18bb7d0503b2.gif" />|<img width="300" src="https://user-images.githubusercontent.com/114119568/203596241-58a8cf66-1373-48da-a1ed-9afc5dbe3c2f.gif" />| <img width="300" src="https://user-images.githubusercontent.com/114119568/203596300-c41fc979-d068-4cdf-a282-b69a3b04a6bb.gif" /> |
 
+
+## 6주차 <a name='6주차'></a>
+
+### 목표: 마무리작업하기
