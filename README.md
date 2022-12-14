@@ -880,4 +880,12 @@ UI들
 |:----:|:----:|:----:|:----:|
 |<img src="https://user-images.githubusercontent.com/114119568/207630355-c661ad83-0e5a-417b-87e3-6ea4045afe17.png" width="300" height="150"  />|<img src="https://user-images.githubusercontent.com/114119568/207630547-b930334c-e085-4e4f-bd4e-d168165ae798.png" width="300" height="150"  />| <img src="https://user-images.githubusercontent.com/114119568/207630671-ff0782a8-249f-46b3-9439-414b854ee9fe.png" width="300" height="150"  /> |<img src="https://user-images.githubusercontent.com/114119568/207630610-ca680c94-b357-426d-9b29-9b76aae56d4b.png" width="300" height="150"  />|
 
+<img src="https://user-images.githubusercontent.com/114119568/207634320-0f345d0b-0cf7-45eb-88a5-c90f79b5dca0.png" width="300" height="300"/>
+
+1. 오디오 믹스로 배경음악과 효과음을 조절하는 코딩이다. 
+
+<img src="https://user-images.githubusercontent.com/114119568/207634363-10b4f1c2-a65f-4b9e-a900-158465308d8c.png" width="300" height="300"/>
+
+2. ESC키를 눌렀을때 인게임메뉴창이 뜨게 만들면서 게임이 일시정지된다.
+
 
