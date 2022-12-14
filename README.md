@@ -658,6 +658,7 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 
 ## 6-2 키보드 이벤트 <a name='키보드-이벤트'></a>
+<img src="https://user-images.githubusercontent.com/114119568/207615926-480ec9cf-6603-46e5-a213-fcd89ff86e4a.png"  width="500" height="500"/>
 
 
 # 7 스토리 보드 <a name='스토리-보드'></a>
