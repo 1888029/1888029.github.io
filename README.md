@@ -869,3 +869,15 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 ## 6주차 <a name='6주차'></a>
 
 ### 목표: 마무리작업하기
+
+포스터
+
+<img src="https://user-images.githubusercontent.com/114119568/207620392-d9b306ae-49cb-425b-9acd-4bb3991f3ed2.png" width="400" height="200"  />
+
+UI들
+
+|설정창|키보드조작창|인게임메뉴|게임오버|
+|:----:|:----:|:----:|:----:|
+|<img src="https://user-images.githubusercontent.com/114119568/207630355-c661ad83-0e5a-417b-87e3-6ea4045afe17.png" width="300" height="150"  />|<img src="https://user-images.githubusercontent.com/114119568/207630547-b930334c-e085-4e4f-bd4e-d168165ae798.png" width="300" height="150"  />| <img src="https://user-images.githubusercontent.com/114119568/207630671-ff0782a8-249f-46b3-9439-414b854ee9fe.png" width="300" height="150"  /> |<img src="https://user-images.githubusercontent.com/114119568/207630610-ca680c94-b357-426d-9b29-9b76aae56d4b.png" width="300" height="150"  />|
+
+
