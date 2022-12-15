@@ -875,6 +875,10 @@ PC게임으로 유니티를 이용해 제작할것이며 오브젝트들은 도�
 
 <img src="https://user-images.githubusercontent.com/114119568/207620392-d9b306ae-49cb-425b-9acd-4bb3991f3ed2.png" width="400" height="200"  />
 
+대표이미지
+
+<img src="https://user-images.githubusercontent.com/114119568/207746698-71937754-22d0-45af-9c52-200fd7cc17b0.png" width="400" height="200"  />
+
 UI들
 
 |설정창|키보드조작창|인게임메뉴|게임오버|
